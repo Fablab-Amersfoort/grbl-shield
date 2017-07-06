@@ -63,3 +63,10 @@ Some improvements for a future version:
    drawing, since now the pads are so close that the DRC doesn't like
    connecting traces to them.
  - Perhaps make the traces a bit wider for the same reason.
+
+Single-sided layout
+-------------------
+The original layout was made for single-sided milling on a CNC mill, so
+the design does not use any jump version. The v1 board was produced like
+this, v2 was slightly modified for 2-layer commercial production (but it
+should be easy to make it single-sided again).
