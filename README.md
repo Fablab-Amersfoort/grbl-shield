@@ -55,11 +55,6 @@ different size.
 Improvements
 ------------
 Some improvements for a future version:
- - Add one or two extra ground pins near the limit pin block (and
-   possibly also near the button pins and the probe pin). In our current
-   cabling, the limit switches wiring is a single cable, whose shield
-   is not connected to the limit switches GND side, but has a separate
-   wire that needs to connect somewhere on the shield.
  - Replace the solder jumper by a bigger version. This one is quite
    tiny, and if the milling head isn't very narrow, the solder jumper is
    completely milled away. Increasing the pad size (but probably not the
