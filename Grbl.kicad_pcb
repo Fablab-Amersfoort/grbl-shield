@@ -963,7 +963,7 @@
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_line (start 209.576825 67.308059) (end 148.15962 67.308059) (layer Edge.Cuts) (width 0.1))
-  (gr_line (start 214.148825 71.880059) (end 209.576825 67.308059) (layer Edge.Cuts) (width 0.1))
+  (gr_line (start 214.149909 71.862973) (end 209.576825 67.308059) (layer Edge.Cuts) (width 0.1))
   (gr_text "LIM_Z\nLIM_Y\nLIM_X" (at 162.56 96.695859) (layer F.SilkS) (tstamp 56364E3C)
     (effects (font (size 1.6 1.5) (thickness 0.3)) (justify left))
   )
