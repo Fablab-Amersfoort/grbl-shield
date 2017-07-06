@@ -1,4 +1,4 @@
-update=Sun 01 Nov 2015 12:51:19 PM CET
+update=Thu 06 Jul 2017 04:00:10 PM CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,4 +58,3 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/home/matthijs/docs/Electronics/Projects/Library/Arduino
