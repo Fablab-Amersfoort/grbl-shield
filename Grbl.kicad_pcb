@@ -1221,7 +1221,7 @@
   (gr_text GND (at 213.36 93.98 90) (layer F.SilkS) (tstamp 5639C1C0)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "DIR_SPIN\nEN_SPIN\nPWM_SPIN" (at 162.56 81.28) (layer F.SilkS) (tstamp 5638B705)
+  (gr_text "PWM_SPIN\nEN_SPIN\nDIR_SPIN" (at 162.56 81.28) (layer F.SilkS) (tstamp 5638B705)
     (effects (font (size 1.6 1.5) (thickness 0.3)) (justify left))
   )
   (gr_line (start 211.455 106.045) (end 209.9056 106.045) (layer F.SilkS) (width 0.2))
