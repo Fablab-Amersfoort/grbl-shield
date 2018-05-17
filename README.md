@@ -52,18 +52,6 @@ the design by adding smaller pullup resistors (Arduino Uno internal ones
 are fairly big at 20k-50k), or adding a second filter capacitor of a
 different size.
 
-Improvements
-------------
-Some improvements for a future version:
- - Replace the solder jumper by a bigger version. This one is quite
-   tiny, and if the milling head isn't very narrow, the solder jumper is
-   completely milled away. Increasing the pad size (but probably not the
-   isolation width) would help here (and it wouldn't negatively affect a
-   properly milled result either). Wider pads would also simplify board
-   drawing, since now the pads are so close that the DRC doesn't like
-   connecting traces to them.
- - Perhaps make the traces a bit wider for the same reason.
-
 Single-sided layout
 -------------------
 The original layout was made for single-sided milling on a CNC mill, so
