@@ -55,7 +55,7 @@ different size.
 Single-sided layout
 -------------------
 The original layout was made for single-sided milling on a CNC mill, so
-the design does not use any jump version. The v1 board was produced like
+the design does not use any vias. The v1 board was produced like
 this, v2 was slightly modified for 2-layer commercial production (but it
 should be easy to make it single-sided again).
 
