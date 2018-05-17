@@ -1,5 +1,7 @@
 Grbl shield
 -----------
+![Assembled v2 board](Docs/Assembled.jpg)
+
 This repository contains the KiCad design files for a grbl shield. It is
 intended to for an Arduino Uno running [grbl][1], to connect it to
 external stepper drivers, limit switches and other equipment. The reason
