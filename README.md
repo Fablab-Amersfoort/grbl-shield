@@ -15,6 +15,13 @@ headers to the Arduino pins.
 [1]: https://github.com/grbl/grbl/
 [2]: http://www.fablabamersfoort.nl
 
+The repository contains the KiCad design files for the board, under
+"Releases" in github we also have pre-generated gerber files to use. We
+have a few spare boards from our own order, which you can [order through
+tindie][tindie].
+
+[tindie]: https://www.tindie.com/products/12515/
+
 Grbl pinout
 -----------
 This shield supports both the old (0.8) and new (0.9) Grbl pinout. The
